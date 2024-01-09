@@ -1,7 +1,7 @@
 # VoronoiDiagrams
 A O(n^2logn) algorithm for Voronoi diagrams with visualization. \
 Install libraries: ```pip install matplotlib``` \
-Run VoronoiDiagram.py \
+Run VoronoiDiagram.py 
 
 You can add voronoi centers using mouse: \
 ![image](https://github.com/pawlowiczf/VoronoiDiagrams/assets/117346592/b37b0f1c-ad5a-4941-b4dc-9e0b94197025) \
