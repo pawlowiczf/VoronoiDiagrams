@@ -2,9 +2,6 @@ from PlaneIntersections import halfPlanesIntersections
 from visualizer.main import Visualizer 
 from generatePoints import createVoronoiPoints
 
-# Łukasz Klon, Filip Pawłowicz
-# Diagramy Voronoi'a - projekt
-
 def Orientation(A, B, C):
     #
     ax, ay = A 
