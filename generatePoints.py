@@ -1,9 +1,6 @@
 import matplotlib.pyplot as plt
 #import numpy as np
 
-# Łukasz Klon, Filip Pawłowicz
-# Diagramy Voronoi'a - projekt
-
 def createVoronoiPoints(): 
     #   
     centers = []
