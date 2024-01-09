@@ -3,9 +3,6 @@ from collections import deque
 from visualizer.main import Visualizer
 import numpy as np 
 
-# Łukasz Klon, Filip Pawłowicz
-# Diagramy Voronoi'a - projekt
-
 def pointIntersection(segmentA, segmentB):
     #
     (ax, ay), (bx, by) = segmentA
