@@ -3,6 +3,11 @@ A O(n^2logn) algorithm for Voronoi diagrams with visualization. \
 Install libraries: ```pip install matplotlib``` \
 Run VoronoiDiagram.py
 
+You can add voronoi centers using mouse:
+![image](https://github.com/pawlowiczf/VoronoiDiagrams/assets/117346592/b37b0f1c-ad5a-4941-b4dc-9e0b94197025)
+Then close the window and see the result.
+
+Example results:
 ![image](https://github.com/pawlowiczf/VoronoiDiagrams/assets/117346592/b1c00bf5-e0b5-4adb-b1e2-42a5d419caa0)
 ![image](https://github.com/pawlowiczf/VoronoiDiagrams/assets/117346592/1f47d84d-30b0-4ca3-9fa0-db9fe2a5492f) \
 ![image](https://github.com/pawlowiczf/VoronoiDiagrams/assets/117346592/ae016a97-9736-4a3a-a8c9-7c262ccf4b13)
