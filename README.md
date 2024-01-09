@@ -1,6 +1,7 @@
 # VoronoiDiagrams
-A O(n^2logn) algorithm for Voronoi diagrams with visualization. 
-Install libraries: ```pip install matplotlib```
+A O(n^2logn) algorithm for Voronoi diagrams with visualization. \
+Install libraries: ```pip install matplotlib``` \
+Run VoronoiDiagram.py
 
 ![image](https://github.com/pawlowiczf/VoronoiDiagrams/assets/117346592/b1c00bf5-e0b5-4adb-b1e2-42a5d419caa0)
 ![image](https://github.com/pawlowiczf/VoronoiDiagrams/assets/117346592/1f47d84d-30b0-4ca3-9fa0-db9fe2a5492f) \
